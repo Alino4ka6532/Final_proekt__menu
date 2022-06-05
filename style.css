@@ -9,7 +9,9 @@ article img{
 }
 article {
     border: 5px solid #123EAB;
+    display: flex;
+    justify-content: center;
 }
-article h1 {
+h1 {
     text-align: center;
 }
