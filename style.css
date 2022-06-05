@@ -1,0 +1,15 @@
+body {
+    font-family: sans-serif;
+}
+
+article img{
+    width: 250px;
+    height: 250px;
+
+}
+article {
+    border: 5px solid #123EAB;
+}
+article h1 {
+    text-align: center;
+}
